@@ -22,9 +22,9 @@ GOST Checker — Python-инструмент для автоматической
 - ├── main.py                  # Точка входа в приложение
 - ├── config.yaml              # Настройки стилей и шаблонов
 - └── checker/
--     ├── style_checker.py     # Проверка оформления и структуры
--     ├── utils.py             # Форматирование 
--     └── report_generator.py  # Генерация CSV-отчета
+- -   ├── style_checker.py     # Проверка оформления и структуры
+- -   ├── utils.py             # Форматирование 
+- -   └── report_generator.py  # Генерация CSV-отчета
 
 # 📦 Установка
 - git clone https://github.com/Klivan49/GOST-Checker
