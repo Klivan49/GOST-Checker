@@ -27,11 +27,8 @@ GOST Checker — Python-инструмент для автоматической
 -     └── report_generator.py  # Генерация CSV-отчета
 
 # 📦 Установка
-git clone --filter=blob:none --no-checkout https://github.com/Klivan49/Main-projects.git
-cd Main-projects
-git sparse-checkout init --cone
-git sparse-checkout set GOST Checker
-cd GOST Checker
+- git clone https://github.com/Klivan49/GOST-Checker
+- cd GOST Checker
 
 python -m venv venv
 venv\Scripts\activate          # Windows
