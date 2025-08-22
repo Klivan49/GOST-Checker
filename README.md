@@ -29,13 +29,7 @@ GOST Checker — Python-инструмент для автоматической
 # 📦 Установка
 - git clone https://github.com/Klivan49/GOST-Checker
 - cd GOST Checker
-
-python -m venv venv
-venv\Scripts\activate          # Windows
- или
-source venv/bin/activate      # Linux/macOS
-
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 # 🛠️ Настройка config.yaml
 
